@@ -135,7 +135,7 @@ section {  display: flex; }
 }
 
 .hero h1 {
-  position: relative
+  position: relative;
   left: -30px;
 }
 .hero h2 {
